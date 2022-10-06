@@ -4,3 +4,4 @@ task 2.There is no place like home?
 task3. the long format
 Task 4.Hidden files
 task 5. i love numbers
+task 6.welcome
