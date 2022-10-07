@@ -6,3 +6,4 @@ Task 4.Hidden files
 task 5. i love numbers
 task 7.Betty is my first directory
 task 6.welcome
+task 8.Bye bye Betty
